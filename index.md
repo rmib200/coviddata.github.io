@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+
+<iframe width="600" height="1500" src="https://datastudio.google.com/embed/reporting/20a65903-0f0e-464f-9b27-fc18d1dbba03/page/LFdKB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 You can use the [editor on GitHub](https://github.com/rmib200/coviddata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
