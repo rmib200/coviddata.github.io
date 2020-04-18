@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<iframe width=100% height="2250" src="https://datastudio.google.com/embed/reporting/20a65903-0f0e-464f-9b27-fc18d1dbba03/page/TSgMB" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe left=0 width=100% height="2250" src="https://datastudio.google.com/embed/reporting/20a65903-0f0e-464f-9b27-fc18d1dbba03/page/TSgMB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 You can use the [editor on GitHub](https://github.com/rmib200/coviddata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
